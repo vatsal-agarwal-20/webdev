@@ -17,17 +17,17 @@ let movies = [
     {
         name: "doctor strange in the multiverse of madness",
         des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-        image: "./images/artworks-2cTK6WFmL2Im7l5S-yHVQVg-t500x500.jpg"
+        image: "./images/HO00002371.jpeg"
     },
     {
         name: "avengers: endgame",
         des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-        image: "./images/poster 4.png"
+        image: "./images/0402_n13_marvel_avengers_endgame.jpeg"
     },
     {
         name: "thor: ragnarok",
         des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!",
-        image: "./images/poster 5.png"
+        image: "./images/636963-h.webp"
     }
 /// and so on
 ];
